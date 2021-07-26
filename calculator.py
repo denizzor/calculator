@@ -1,5 +1,5 @@
 print("Calculator with python")
-print ("Select the specified number for the operation.","\n1-Addition","\n2-Extraction Process","\n3-Multiplication","\n4-Division")
+print ("Select the specified number for the operation.","\n1-Plus","\n2-Minus","\n3-Times","\n4-Division")
 
 chose= input("Select the operation (1-2-3-4):")
 
